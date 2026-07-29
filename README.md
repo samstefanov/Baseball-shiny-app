@@ -1,1 +1,1 @@
-
+Created a shiny app which displayed a series of scatter plots detailing the relationship between release point (vertical and horizontal) and velocity for each individual pitcher, spin rate and velocity for each individual pitcher, and launch speed and hit distance for each individual hitter, as well as a stacked bar graph that shows how often each pitcher throws each one of their pitches.
